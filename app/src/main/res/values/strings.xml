@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FOL</string>
+    <string name="select_type">Select Type</string>
+    <string name="enter_marks">Enter Marks</string>
+    <string name="submit">Submit</string>
+    <string name="back">Back</string>
+    <string name="about_me">About Me</string>
+    <string name="reset">Reset</string>
+    <string name="update">Update</string>
+    <string name="about_me_text">This are some information about us.</string>
+    <string name="info_text">Created by: Patel Dhruv, Student Number: 1211047</string>
+    <string name="additional_info_text">Created by: Tirth Shah, Student Number: 1210420</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="info_course">INFO6126</string>
+</resources>
