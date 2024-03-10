@@ -49,11 +49,7 @@ class SecondActivity : AppCompatActivity() {
             Toast.makeText(this, "Data reset", Toast.LENGTH_SHORT).show()
         }
 
-        val thirdActivityButton = findViewById<Button>(R.id.about_me_button)
-        thirdActivityButton.setOnClickListener {
-            val intent = Intent(this, MainActivity3::class.java)
-            startActivity(intent)
-        }
+
     }
 
     override fun onNewIntent(intent: Intent?) {
